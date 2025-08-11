@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @B4rryAli
 - 👀 I’m interested in software development (backend development and database management)
-- 🌱 I’m currently doing technical IT work (OJT in CPILS)
 - 📫 How to reach me email: christianbarryalico@gmail.com and phone: 09917923915
 - 😄 Pronouns: That/Guy
 - ⚡ Fun fact: There is nothing 
